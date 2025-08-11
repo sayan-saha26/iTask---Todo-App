@@ -24,8 +24,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 **[View Live App](https://your-live-demo-link.com)**  
-*(Replace with your deployed link – e.g., Netlify, Vercel)*
+🔗 **[View Live App](https://itask-todo-app.vercel.app/)**
 
 ---
 
